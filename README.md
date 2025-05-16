@@ -14,4 +14,20 @@ A simple Python script to check if a web page is indexable by search engines bas
 
 ---
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Aditi-Rani/indexability-checker
+```
+```bash
+cd indexability-checker
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Script
+```bash
+python indexability_checker.py
+```
 
